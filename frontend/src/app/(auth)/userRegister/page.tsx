@@ -9,8 +9,7 @@ import {
 } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-export const description =
-  "A sign up form with first name, last name, email and password inside a card. There's an option to sign up with GitHub and a link to login if you already have an account"
+
 export default function RegisterForm() {
   return (
    <div className="flex justify-center items-center h-screen w-screen" >

@@ -1,10 +1,10 @@
-"use client"
+
 import React from 'react'
 
-const Page = () => {
+const page = () => {
   return (
     <div>OfficialLogin</div>
   )
 }
 
-export default Page
+export default page
