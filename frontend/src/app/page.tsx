@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex justify-center items-center flex-col gap-4 " >
       <div className="" >Hello SIH</div>
-      <Link href={`/userlogin`} >
+      <Link href={`/userLogin`} >
       <Button  className="" >Login</Button>
       </Link>
     </div>
